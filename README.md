@@ -1,1 +1,1 @@
-# Guess_the_number
+The program generates a random number from 1 to 10 or any range that is specified and the user must guess the number after a hint from the computer. Every time a user’s guess is wrong they are prompted with more hints to make it easier for them to guess the number but at the cost of reducing the score. The clue may be any math clue like multiples, divisible, greater or smaller, or a combination of all. 
